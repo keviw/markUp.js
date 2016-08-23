@@ -1,0 +1,28 @@
+{
+  "name": "markup",
+  "version": "0.0.1",
+  "description": "Online markdown editor Javascript's library",
+  "main": "gulpfile.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keviw/markUp.js.git"
+  },
+  "keywords": [
+    "markdown",
+    "markup"
+  ],
+  "author": "Kevin Wang",
+  "devDependencies": {
+    "typescript": "latest",
+    "gulp": "latest",
+    "gulp-typescript": "latest"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keviw/markUp.js.git"
+  },
+  "homepage": "https://github.com/keviw/markUp.js.git"
+}
